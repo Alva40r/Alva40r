@@ -8,7 +8,6 @@ I am and individual that is transitioning into the Cybersecurity field.
 I have always been curious and passionate about IT and Information security, and I am now eager to transition into this field, specifically aiming to join an organization as an entry level Cyber Security Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards, INPROGRESS]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
