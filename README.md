@@ -11,7 +11,7 @@ I have always been curious and passionate about IT and Information security, and
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SOHO network implementation and configuration | <a href="https://github.com/Alva40r/LAN-Simulation">LAN Simulation</a>|
+| Home network implementation and configuration | <a href="https://github.com/Alva40r/LAN-Simulation">LAN Simulation</a>|
 
 
 ## Tools
