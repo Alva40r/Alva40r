@@ -1,5 +1,5 @@
 # Hello, I'm Alvaro
-<a href="[https://linkedin.com](https://www.linkedin.com/in/alvaro-rivera-64bb872a8/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/alvaro-rivera-64bb872a8/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am and individual that is transitioning into the Cybersecurity field.
 
