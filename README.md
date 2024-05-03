@@ -12,7 +12,7 @@ I have always been curious and passionate about IT and Information security, and
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Home network implementation and configuration | <a href="https://github.com/Alva40r/LAN-Simulation">LAN Simulation</a>|
-
+| SIEM configuration and VM deployment          | <a href="(https://github.com/Alva40r/SIEM-Lab)">SIEM Lab</a>|
 
 ## Tools
 
@@ -40,3 +40,4 @@ I have always been curious and passionate about IT and Information security, and
 
 ## Projects
 - <a href="https://github.com/Alva40r/LAN-Simulation">LAN Simulation</a>
+- <a href="(https://github.com/Alva40r/SIEM-Lab)">SIEM Lab</a>
